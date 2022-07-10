@@ -1,0 +1,6 @@
+name: SoupSigns
+version: '${project.version}'
+main: com.cahrypt.me.soupsigns.SoupSigns
+api-version: 1.19
+authors: [ cahrypt ]
+description: Soup sign plugin for pvp servers

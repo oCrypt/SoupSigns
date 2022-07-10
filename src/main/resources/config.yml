@@ -1,0 +1,19 @@
+seconds-delay-per-click: 0.5
+
+seconds-delay-before-refill-cooldown: 5
+
+seconds-refill-cooldown: 10
+
+indicator-block: GREEN_WOOL
+cooldown-indicator-block: RED_WOOL
+do-indicator-change: true
+indicator-loc-from-supporting-block:
+  x: 0
+  y: 1
+  z: 0
+
+put-on-cooldown-message: "&cYou can no longer obtain soup for %d seconds!"
+
+full-inventory-message: "&aYou have a full inventory!"
+
+refill-sound: BLOCK_NOTE_BLOCK_BANJO
